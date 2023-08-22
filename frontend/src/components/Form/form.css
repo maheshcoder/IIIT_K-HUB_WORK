@@ -1,0 +1,16 @@
+.form {
+  height: 400px;
+  width: 300px;
+}
+
+.form .form-size {
+  background-color: #7c8a9f;
+  border-radius: 16px;
+  height: 350px;
+  right: 60px;
+  padding:22px;
+
+  position: fixed;
+  top :25%;
+  width: 300px;
+}

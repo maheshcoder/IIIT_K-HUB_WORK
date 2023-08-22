@@ -1,0 +1,40 @@
+.left{
+    position: absolute;
+    top: 60%;
+    left: 60px;
+    transform: translateY(-50%);
+}
+.form0{
+    position: absolute;
+    background-color: #B56464;
+    top: 18%;
+    left: 5%;
+    padding: 120px;
+    border-radius: 5%;
+    border: 7px solid #d8d8d8;
+}
+.form1{
+    position: absolute;
+    background-color: #B56464;
+    top: 18%;
+    left: 25%;
+    padding: 120px;
+    border-radius: 5%;
+    border: 7px solid #d8d8d8;
+}
+.form2{
+    position: absolute;
+    background-color: #B56464;
+    top: 18%;
+    left: 45%;
+    padding: 120px;
+    border-radius: 5%;
+    border: 7px solid #d8d8d8;
+}
+
+.text{
+    position: absolute;
+    top: 60%;
+    left: 60px;
+    transform: translateY(-50%);
+}
