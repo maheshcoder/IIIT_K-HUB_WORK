@@ -1,9 +1,9 @@
 
 import React from 'react';
-import Footer from './footer';
-import Navbar from './navbar';
-import Form  from "./form";
-import Folder from "./folder"
+import Footer from '.components./Folder./footer';
+import Navbar from '.components./Navbar./navbar';
+import Form  from ".components./Form./form";
+import Folder from "./components./Form./folder"
 function App() {  
   return (
     <div className="app">
