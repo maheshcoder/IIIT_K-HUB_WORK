@@ -14,3 +14,16 @@
   top :18%;
   width: 500px;
 }
+
+.type-text{
+  color: #ffffff;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 0;
+  width: 532px;
+}

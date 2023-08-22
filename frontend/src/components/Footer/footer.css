@@ -11,14 +11,14 @@
     bottom: 0;
     width: 100%;
     background-image: url(C:\Users\x\OneDrive\Desktop\IIIT_WORK\IIIT_K-HUB_WORK\frontend\src\git.png);
-    background-size: 35px;
+    background-size: 33px;
     background-position: 99%;
     background-repeat: no-repeat;
     background-position-y: 5px;
   }
   .copyright{
     background-color: #2c3b50;
-    height: 35px;
+    height: 40px;
     position: relative;
     text-align: center;
     

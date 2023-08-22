@@ -7,7 +7,7 @@ export const Footer = () => {
       <div className="rectangle" />
       
       <div className="copyright">
-        <p>         2023 © Copyright Raj Reddy Center For Technology And Society. All Rights Reserved.
+        <p>         2023 © Copyright S.Maheswar Center For Technology And Society. All Rights Reserved.
  </p>
       </div>
     </footer>
