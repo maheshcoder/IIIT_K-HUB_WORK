@@ -8,22 +8,35 @@
   border-radius: 16px;
   height: 570px;
   right: 60px;
-  padding:22px;
-
+  padding: 22px;
   position: fixed;
-  top :18%;
+  top: 18%;
   width: 500px;
+  overflow: hidden;
+  background-image: url("C:\Users\x\OneDrive\Desktop\IIIT_WORK\IIIT_K-HUB_WORK\frontend\src\database (1).png");
+  background-size: 33px;
+  background-position: 2%;
+  background-repeat: no-repeat;
+  background-position-y: 50px; 
+
 }
 
-.type-text{
+.form .form-size p.type-text {
+  position: absolute;
+  top:15%;
+
+  margin: 0;
   color: #ffffff;
-  font-family: "Roboto-Medium", Helvetica;
-  font-size: 20px;
-  font-weight: 500;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: fixed;
-  top: 0;
-  width: 532px;
+  font-size: 16px;
+  line-height: 1.4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  
+ 
+}
+.head{
+  position: absolute;
+  left:9%;
+  
 }
